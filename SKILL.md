@@ -1,5 +1,5 @@
 ---
-name: plex-manage
+name: projectionist
 description: Safely inspect and manage a home Plex Media Server, Tautulli analytics, and Sonarr/Radarr stack over SSH. Use for the server's health, libraries, media, sessions, history, containers, downloads, or acquisition services.
 ---
 

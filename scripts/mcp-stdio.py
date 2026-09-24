@@ -68,7 +68,7 @@ def main() -> None:
             {
                 "protocolVersion": "2024-11-05",
                 "capabilities": {},
-                "clientInfo": {"name": "plex-manage-skill", "version": "1.0"},
+                "clientInfo": {"name": "projectionist", "version": "1.0"},
             },
         )
         if "error" in init:

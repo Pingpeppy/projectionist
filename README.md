@@ -1,4 +1,4 @@
-# plex-manage
+# Projectionist
 
 An AI-agent skill for safely managing a home Plex Media Server, the
 Sonarr/Radarr acquisition stack, and Tautulli analytics — over SSH, with no
